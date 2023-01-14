@@ -1,5 +1,7 @@
 # ChatGPT Powered
 
+https://chat.openai.com/chat
+
 --- Write to ChatGPT ---> Write me a python code, search for doc, pdf, jpg, png and gifs and copy them to temp folder in windows if found.
 
 ```python
