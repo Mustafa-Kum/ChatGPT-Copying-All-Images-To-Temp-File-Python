@@ -1,6 +1,6 @@
 # ChatGPT Powered
 
---- Write to ChatGPT ---> Write me a python code for search for doc, pdf, jpg, png and gifs and copy them to temp folder in windows if found.
+--- Write to ChatGPT ---> Write me a python code, search for doc, pdf, jpg, png and gifs and copy them to temp folder in windows if found.
 
 If you want you can add ftp or mail transfer.
 
